@@ -1,0 +1,12 @@
+C:\Users\MSIS\source\repos\AspCalMStest\Calmstestdll\bin\Debug\Calmstestdll.dll
+C:\Users\MSIS\source\repos\AspCalMStest\Calmstestdll\bin\Debug\Calmstestdll.pdb
+C:\Users\MSIS\source\repos\AspCalMStest\Calmstestdll\obj\Debug\Calmstestdll.csproj.AssemblyReference.cache
+C:\Users\MSIS\source\repos\AspCalMStest\Calmstestdll\obj\Debug\Calmstestdll.csproj.CoreCompileInputs.cache
+C:\Users\MSIS\source\repos\AspCalMStest\Calmstestdll\obj\Debug\Calmstestdll.dll
+C:\Users\MSIS\source\repos\AspCalMStest\Calmstestdll\obj\Debug\Calmstestdll.pdb
+D:\Deejay\AspCalMStest\Calmstestdll\bin\Debug\Calmstestdll.dll
+D:\Deejay\AspCalMStest\Calmstestdll\bin\Debug\Calmstestdll.pdb
+D:\Deejay\AspCalMStest\Calmstestdll\obj\Debug\Calmstestdll.csproj.AssemblyReference.cache
+D:\Deejay\AspCalMStest\Calmstestdll\obj\Debug\Calmstestdll.csproj.CoreCompileInputs.cache
+D:\Deejay\AspCalMStest\Calmstestdll\obj\Debug\Calmstestdll.dll
+D:\Deejay\AspCalMStest\Calmstestdll\obj\Debug\Calmstestdll.pdb
