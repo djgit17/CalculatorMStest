@@ -122,9 +122,6 @@ D:\college_Subjects\Cloud Computing\DevOps\Git Jenkins repo\Asp.Net\AspCalMStest
 D:\college_Subjects\Cloud Computing\DevOps\Git Jenkins repo\Asp.Net\AspCalMStest\CalculatorMStest\AspCalMStest\obj\Debug\AspCalMStest.csproj.CopyComplete
 D:\college_Subjects\Cloud Computing\DevOps\Git Jenkins repo\Asp.Net\AspCalMStest\CalculatorMStest\AspCalMStest\obj\Debug\AspCalMStest.dll
 D:\college_Subjects\Cloud Computing\DevOps\Git Jenkins repo\Asp.Net\AspCalMStest\CalculatorMStest\AspCalMStest\obj\Debug\AspCalMStest.pdb
-D:\college_Subjects\Cloud Computing\DevOps\MSBuild\Asp.Net\AspCalMStest\CalculatorMStest\AspCalMStest\obj\Debug\AspCalMStest.csproj.AssemblyReference.cache
-D:\college_Subjects\Cloud Computing\DevOps\MSBuild\Asp.Net\AspCalMStest\CalculatorMStest\AspCalMStest\obj\Debug\AspCalMStest.csproj.CoreCompileInputs.cache
-D:\college_Subjects\Cloud Computing\DevOps\MSBuild\Asp.Net\AspCalMStest\CalculatorMStest\AspCalMStest\bin\AspCalMStest.dll.config
 D:\college_Subjects\Cloud Computing\DevOps\MSBuild\Asp.Net\AspCalMStest\CalculatorMStest\AspCalMStest\bin\AspCalMStest.dll
 D:\college_Subjects\Cloud Computing\DevOps\MSBuild\Asp.Net\AspCalMStest\CalculatorMStest\AspCalMStest\bin\AspCalMStest.pdb
 D:\college_Subjects\Cloud Computing\DevOps\MSBuild\Asp.Net\AspCalMStest\CalculatorMStest\AspCalMStest\bin\roslyn\csc.exe
@@ -180,6 +177,8 @@ D:\college_Subjects\Cloud Computing\DevOps\MSBuild\Asp.Net\AspCalMStest\Calculat
 D:\college_Subjects\Cloud Computing\DevOps\MSBuild\Asp.Net\AspCalMStest\CalculatorMStest\AspCalMStest\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
 D:\college_Subjects\Cloud Computing\DevOps\MSBuild\Asp.Net\AspCalMStest\CalculatorMStest\AspCalMStest\bin\Calmstestdll.pdb
 D:\college_Subjects\Cloud Computing\DevOps\MSBuild\Asp.Net\AspCalMStest\CalculatorMStest\AspCalMStest\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\college_Subjects\Cloud Computing\DevOps\MSBuild\Asp.Net\AspCalMStest\CalculatorMStest\AspCalMStest\obj\Debug\AspCalMStest.csproj.AssemblyReference.cache
+D:\college_Subjects\Cloud Computing\DevOps\MSBuild\Asp.Net\AspCalMStest\CalculatorMStest\AspCalMStest\obj\Debug\AspCalMStest.csproj.CoreCompileInputs.cache
 D:\college_Subjects\Cloud Computing\DevOps\MSBuild\Asp.Net\AspCalMStest\CalculatorMStest\AspCalMStest\obj\Debug\AspCalMStest.csproj.CopyComplete
 D:\college_Subjects\Cloud Computing\DevOps\MSBuild\Asp.Net\AspCalMStest\CalculatorMStest\AspCalMStest\obj\Debug\AspCalMStest.dll
 D:\college_Subjects\Cloud Computing\DevOps\MSBuild\Asp.Net\AspCalMStest\CalculatorMStest\AspCalMStest\obj\Debug\AspCalMStest.pdb
