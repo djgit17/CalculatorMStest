@@ -15,3 +15,5 @@ D:\Deejay\AspCalMStest\CalMStest\bin\Debug\Microsoft.VisualStudio.TestPlatform.M
 D:\Deejay\AspCalMStest\CalMStest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
 D:\Deejay\AspCalMStest\CalMStest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
 D:\Deejay\AspCalMStest\CalMStest\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+D:\college_Subjects\Cloud Computing\DevOps\MSBuild\Asp.Net\AspCalMStest\CalculatorMStest\CalMStest\obj\Debug\CalMStest.csproj.AssemblyReference.cache
+D:\college_Subjects\Cloud Computing\DevOps\MSBuild\Asp.Net\AspCalMStest\CalculatorMStest\CalMStest\obj\Debug\CalMStest.csproj.CoreCompileInputs.cache

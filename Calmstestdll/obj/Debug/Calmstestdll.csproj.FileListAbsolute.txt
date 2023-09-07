@@ -10,3 +10,9 @@ D:\Deejay\AspCalMStest\Calmstestdll\obj\Debug\Calmstestdll.csproj.AssemblyRefere
 D:\Deejay\AspCalMStest\Calmstestdll\obj\Debug\Calmstestdll.csproj.CoreCompileInputs.cache
 D:\Deejay\AspCalMStest\Calmstestdll\obj\Debug\Calmstestdll.dll
 D:\Deejay\AspCalMStest\Calmstestdll\obj\Debug\Calmstestdll.pdb
+D:\college_Subjects\Cloud Computing\DevOps\MSBuild\Asp.Net\AspCalMStest\CalculatorMStest\Calmstestdll\bin\Debug\Calmstestdll.dll
+D:\college_Subjects\Cloud Computing\DevOps\MSBuild\Asp.Net\AspCalMStest\CalculatorMStest\Calmstestdll\bin\Debug\Calmstestdll.pdb
+D:\college_Subjects\Cloud Computing\DevOps\MSBuild\Asp.Net\AspCalMStest\CalculatorMStest\Calmstestdll\obj\Debug\Calmstestdll.csproj.AssemblyReference.cache
+D:\college_Subjects\Cloud Computing\DevOps\MSBuild\Asp.Net\AspCalMStest\CalculatorMStest\Calmstestdll\obj\Debug\Calmstestdll.csproj.CoreCompileInputs.cache
+D:\college_Subjects\Cloud Computing\DevOps\MSBuild\Asp.Net\AspCalMStest\CalculatorMStest\Calmstestdll\obj\Debug\Calmstestdll.dll
+D:\college_Subjects\Cloud Computing\DevOps\MSBuild\Asp.Net\AspCalMStest\CalculatorMStest\Calmstestdll\obj\Debug\Calmstestdll.pdb
