@@ -15,8 +15,6 @@ D:\Deejay\AspCalMStest\CalMStest\bin\Debug\Microsoft.VisualStudio.TestPlatform.M
 D:\Deejay\AspCalMStest\CalMStest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
 D:\Deejay\AspCalMStest\CalMStest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
 D:\Deejay\AspCalMStest\CalMStest\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
-D:\college_Subjects\Cloud Computing\DevOps\MSBuild\Asp.Net\AspCalMStest\CalculatorMStest\CalMStest\obj\Debug\CalMStest.csproj.AssemblyReference.cache
-D:\college_Subjects\Cloud Computing\DevOps\MSBuild\Asp.Net\AspCalMStest\CalculatorMStest\CalMStest\obj\Debug\CalMStest.csproj.CoreCompileInputs.cache
 D:\college_Subjects\Cloud Computing\DevOps\MSBuild\Asp.Net\AspCalMStest\CalculatorMStest\CalMStest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
 D:\college_Subjects\Cloud Computing\DevOps\MSBuild\Asp.Net\AspCalMStest\CalculatorMStest\CalMStest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
 D:\college_Subjects\Cloud Computing\DevOps\MSBuild\Asp.Net\AspCalMStest\CalculatorMStest\CalMStest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
@@ -29,6 +27,8 @@ D:\college_Subjects\Cloud Computing\DevOps\MSBuild\Asp.Net\AspCalMStest\Calculat
 D:\college_Subjects\Cloud Computing\DevOps\MSBuild\Asp.Net\AspCalMStest\CalculatorMStest\CalMStest\bin\Debug\Calmstestdll.pdb
 D:\college_Subjects\Cloud Computing\DevOps\MSBuild\Asp.Net\AspCalMStest\CalculatorMStest\CalMStest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
 D:\college_Subjects\Cloud Computing\DevOps\MSBuild\Asp.Net\AspCalMStest\CalculatorMStest\CalMStest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\college_Subjects\Cloud Computing\DevOps\MSBuild\Asp.Net\AspCalMStest\CalculatorMStest\CalMStest\obj\Debug\CalMStest.csproj.AssemblyReference.cache
+D:\college_Subjects\Cloud Computing\DevOps\MSBuild\Asp.Net\AspCalMStest\CalculatorMStest\CalMStest\obj\Debug\CalMStest.csproj.CoreCompileInputs.cache
 D:\college_Subjects\Cloud Computing\DevOps\MSBuild\Asp.Net\AspCalMStest\CalculatorMStest\CalMStest\obj\Debug\CalMStest.csproj.CopyComplete
 D:\college_Subjects\Cloud Computing\DevOps\MSBuild\Asp.Net\AspCalMStest\CalculatorMStest\CalMStest\obj\Debug\CalMStest.dll
 D:\college_Subjects\Cloud Computing\DevOps\MSBuild\Asp.Net\AspCalMStest\CalculatorMStest\CalMStest\obj\Debug\CalMStest.pdb
