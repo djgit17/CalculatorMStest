@@ -182,4 +182,3 @@ D:\college_Subjects\Cloud Computing\DevOps\MSBuild\Asp.Net\AspCalMStest\Calculat
 D:\college_Subjects\Cloud Computing\DevOps\MSBuild\Asp.Net\AspCalMStest\CalculatorMStest\AspCalMStest\obj\Debug\AspCalMStest.csproj.CopyComplete
 D:\college_Subjects\Cloud Computing\DevOps\MSBuild\Asp.Net\AspCalMStest\CalculatorMStest\AspCalMStest\obj\Debug\AspCalMStest.dll
 D:\college_Subjects\Cloud Computing\DevOps\MSBuild\Asp.Net\AspCalMStest\CalculatorMStest\AspCalMStest\obj\Debug\AspCalMStest.pdb
-D:\college_Subjects\Cloud Computing\DevOps\MSBuild\Asp.Net\AspCalMStest\CalculatorMStest\AspCalMStest\bin\AspCalMStest.dll.config
