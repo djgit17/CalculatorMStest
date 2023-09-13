@@ -95,12 +95,7 @@
   </ItemGroup>
 	
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
-	<PropertyGroup>
-		<!-- VisualStudioVersion is incompatible with later versions of Visual Studio.  Removing. -->
-		<!-- <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion> -->
-		<!-- VSToolsPath is required by MSBuild for features like "DeployTarget=Package" -->
-		<VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
-	</PropertyGroup>
+
 
 	<Import Project="$(VSToolsPath)\WebApplications\Microsoft.WebApplication.targets" Condition="'$(VSToolsPath)' != ''" />
 	<Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v17.3.6\WebApplications\Microsoft.WebApplication.targets" Condition="false" />
